@@ -1,0 +1,7 @@
+week 2 SQL command, student portion
+
+INSERT INTO student VALUES('Harry', 'Truman', 'htruman@aol.com', "1946-1-24", NULL);
+
+INSERT INTO student VALUES('Shelly', 'Johnson', 'sjohnson@aol.com', "1970-12-12", NULL);
+
+INSERT INTO student VALUES('Bobby', 'Briggs', 'bbriggs@aol.com', "1967-5-24", NULL);

@@ -1,0 +1,9 @@
+## week3_partB
+## Step 2,
+## create the Temp_Hum_Sound table
+
+CREATE TABLE Temp_Hum_Sound(
+temperature INT NULL,
+humidity INT NULL,
+sound INT NULL,
+time INT NULL);
